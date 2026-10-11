@@ -1,0 +1,1 @@
+select * from `Salesanalysis.olist_customers`
